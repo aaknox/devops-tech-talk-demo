@@ -1,2 +1,3 @@
-# devops-tech-talk-demo
-A demonstration of how DevOps practices help streamlined the software development process for any typical project.
+# DevOps Tech Talk Demo
+## Part 1: "As the App Turns": Introduction to DevOps
+- What is DevOps?
