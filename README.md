@@ -11,7 +11,7 @@
     - Static Code Analysis with Sonarcloud
 - Let's Sharing the Love: Intro to Docker
     - Pull my app from DockerHub
-    - Run it and Play Ping Pong against the Computer
+    - Run it and Play Snake!
 - Conclusion: Anyone can dive into DevOps!
 
 <div align="center" style="margin: 0 auto;">
