@@ -17,8 +17,6 @@ For Amazon Linux AMIs, the username is ec2-user. For an Ubuntu AMI, it would be 
 
 When first connecting, answer yes to the prompt asking to register the new server. Afterwards your shell prompt will now reflect a session on your EC2.
 
-1. Follow the SSH Client instructions
-2. Create the bash script that will automate connecting and running our Java app in the EC2
-3. Put your downloaded key-pair file into the project folder
-4. Run the bash script
-5. If all goes well, maven/java/jenkins will be installed within the ec2
+1. Run the bash script that will automate connecting and running our Java app in the EC2
+2. If all goes well, maven/java will be installed within the ec2
+3. Test it out on EC2 IP address
