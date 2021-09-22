@@ -14,9 +14,6 @@ sudo yum install git -y
 sudo amazon-linux-extras install tomcat8.5 -y
 
 # Launch Tomcat Server and deploy your application
-git clone https://github.com/aaknox/devops-tech-talk-demo.git
-cd devops-tech-talk-demo
-cd AWS-EC2
 cd HarryPotterAPI
 
 mvn package
