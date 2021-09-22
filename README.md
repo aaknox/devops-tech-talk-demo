@@ -15,5 +15,5 @@
 - Conclusion: Anyone can dive into DevOps!
 
 <div align="center" style="margin: 0 auto;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/2560px-Devops-toolchain.svg.png" style="height: 200px; width: 100%; object-fit: scale-down !important;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/2560px-Devops-toolchain.svg.png" style="height: 200px; width: 50%; object-fit: scale-down !important;">
 </div>
