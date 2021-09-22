@@ -14,6 +14,6 @@
     - Run it and Play Ping Pong against the Computer
 - Conclusion: Anyone can dive into DevOps!
 
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/2560px-Devops-toolchain.svg.png" style="display: block; text-align: center; height: 150px; width: 150px; object-fit: contain; margin: 0 auto;">
+<div style="width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/2560px-Devops-toolchain.svg.png" style="display: block; text-align: center; height: 150px; width: 100%; object-fit: scale-down; margin: 0 auto;">
 </div>
