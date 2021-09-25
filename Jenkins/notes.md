@@ -1,27 +1,15 @@
-# Step 2: Install Jenkins within your EC2
+# Step 2: Make a Jenkins Pipeline
 # Overview:
-
+Jenkins is
+    1) Open source automation server
+    2) Helps to automate the non-human part of the software development process
+    3) Allows continuous integration
 # Steps:
-```bash
-# Install Jenkins
-sudo wget -O /etc/yum.repos.d/jenkins.repo \
-https://pkg.jenkins.io/redhat-stable/jenkins.repo
-
-sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
-
-sudo yum upgrade
-
-sudo yum install jenkins java-1.8.0-openjdk-devel -y
-
-sudo systemctl daemon-reload
-
-sudo systemctl start jenkins
-
-# Check Jenkins status
-sudo systemctl status jenkins
-
-#Connect to http://<your_server_public_DNS>:8080 from your favorite browser. You will be able to access Jenkins through its management interface
-
-```
+    1. Show the pipeline demo repo
+    2. Go to Jenkins
+    3. Explain the components within the made pipeline.
+    4. Run a build
+    5. Talk about Crons jobs
+    6. Show Sonarcloud
 # References:
 [Installing Jenkins on an AWS EC2](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
